@@ -1,2 +1,1 @@
-# odin-recipes
-Foundations Course: First Project
+This is the first project of the Foundations course from The Odin Project. I will be applying the basic skills I've learned to build a recipe website.

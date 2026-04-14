@@ -16,7 +16,7 @@ strong{
 }
 
 .card {
-    width: 50%;
+    width: 500px;
     background: #fffaf7;
     padding: 20px;
     margin: 20px auto;
@@ -27,6 +27,7 @@ strong{
     font-size: 36px;
     text-align: center;
     color: #c15639;
+    margin: 10px auto;
 }
 
 .sub-title {

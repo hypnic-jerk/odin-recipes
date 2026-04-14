@@ -1,0 +1,41 @@
+body {
+    background: #ffe4d7;
+}
+
+a {
+    color: #c15639;
+}
+
+.card {
+    width: 50%;
+    background: #fffaf7;
+    padding: 20px;
+    margin: 20px auto;
+}
+
+.title {
+    font-family: "Abril Fatface", sans-serif;
+    font-size: 36px;
+    text-align: center;
+    color: #c15639;
+}
+
+.menu {
+    border-top: #c15639 dashed 2px;
+    padding-top: 5px;
+}
+.menu li {
+    padding: 5px;
+    margin: 8px;
+    background: #ffe4d79a;
+    font-family: Poppins, sans-serif;
+    color: #c15639;
+}
+
+#footer {
+    font-family: Poppins, sans-serif;
+    font-size: 12px;
+    text-align: center;
+    color: #c15639;
+    margin-top: -15px;
+}
